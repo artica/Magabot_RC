@@ -16,8 +16,9 @@
     Enjoy!
     http://artica.cc
 
+    Credits:
+
     RC PulseIn Serial Read out
-  
     By: Nick Poole
     SparkFun Electronics
     Date: 5
